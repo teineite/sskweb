@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://info.sasakikai.workers.dev/sitemap.xml
